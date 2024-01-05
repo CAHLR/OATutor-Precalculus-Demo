@@ -47,6 +47,7 @@ class ProblemCard extends React.Component {
         this.unlockFirstHint = props.unlockFirstHint;
         this.giveHintOnIncorrect = props.giveHintOnIncorrect;
         this.keepMCOrder = props.keepMCOrder;
+        this.keyboardType = props.keyboardType;
         this.allowRetry = this.giveStuFeedback;
 
         this.giveStuBottomHint = props.giveStuBottomHint;
@@ -592,6 +593,7 @@ class ProblemCard extends React.Component {
                             step={this.step}
                             seed={this.props.seed}
                             keepMCOrder={this.props.keepMCOrder}
+                            keyboardType={this.props.keyboardType}
                             _setState={(state) => this.setState(state)}
                             context={this.context}
                             editInput={this.editInput}
