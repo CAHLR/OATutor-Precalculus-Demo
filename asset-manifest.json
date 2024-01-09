@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OATutor-Precalculus-Demo/static/css/main.b0c38da1.css",
-    "main.js": "/OATutor-Precalculus-Demo/static/js/main.56728dff.js",
-    "static/media/Symbola.svg": "/OATutor-Precalculus-Demo/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/OATutor-Precalculus-Demo/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/OATutor-Precalculus-Demo/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/OATutor-Precalculus-Demo/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/OATutor-Precalculus-Demo/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/OATutor-Precalculus-Demo/index.html",
-    "main.b0c38da1.css.map": "/OATutor-Precalculus-Demo/static/css/main.b0c38da1.css.map",
-    "main.56728dff.js.map": "/OATutor-Precalculus-Demo/static/js/main.56728dff.js.map"
+    "main.css": "/UCBerkeley-Math1B/static/css/main.5109473e.css",
+    "main.js": "/UCBerkeley-Math1B/static/js/main.75f35f7c.js",
+    "static/media/Symbola.svg": "/UCBerkeley-Math1B/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/UCBerkeley-Math1B/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/UCBerkeley-Math1B/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/UCBerkeley-Math1B/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/UCBerkeley-Math1B/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/UCBerkeley-Math1B/index.html",
+    "main.5109473e.css.map": "/UCBerkeley-Math1B/static/css/main.5109473e.css.map",
+    "main.75f35f7c.js.map": "/UCBerkeley-Math1B/static/js/main.75f35f7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0c38da1.css",
-    "static/js/main.56728dff.js"
+    "static/css/main.5109473e.css",
+    "static/js/main.75f35f7c.js"
   ]
 }
