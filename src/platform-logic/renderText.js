@@ -36,6 +36,10 @@ function renderText(text, problemID, variabilization, context) {
          */
         let lineParts = line.split("$$");
         lineParts = lineParts.map((part, jdx) => {
+            const regex = /^_{3,}$/;
+            if (regex.test(part)) {
+                return parseForFillInQuestions(part);
+            }
             const isLaTeX = jdx % 2 !== 0; // implies it is in between two "$$" delimiters
             if (isLaTeX) {
                 return (
